@@ -1,4 +1,0 @@
-git add .
-git branch -M
-git commit -m "cosa"
-git push -u origin main
